@@ -1,3 +1,1 @@
-School project from Seattle Academy
-
-Spencer Hatch and Tenzin Larkin
+Project from Spencer Hatch and Tenzin Larkin
